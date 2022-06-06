@@ -9,23 +9,8 @@ body{
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
-
-    
     -webkit-background-size: cover;
-    
-
-
-
-
-
 }
-
-/* .container {
-    position: relative;
-    text-align: left;
-    color: white;
-    font-family: equinox;
-  } */
 
 .top-center {
     position: absolute;
@@ -41,7 +26,6 @@ body{
     color: white;
     font-family: equinox;
     position: relative;
-    /* text-align: left; */
 }
 
 .top-center > .job-title > div{
