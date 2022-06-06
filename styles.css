@@ -5,18 +5,18 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url("Images/aboutMe.jpg");
+    background-image: url("Images/Background.jpg");
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat fixed;
 }
 
-.container {
+/* .container {
     position: relative;
     text-align: left;
     color: white;
     font-family: equinox;
-  }
+  } */
 
 .top-center {
     position: absolute;
@@ -27,6 +27,12 @@ body{
     transform: translate(-50%, 25%);
 
     text-align: center;
+    
+
+    color: white;
+    font-family: equinox;
+    position: relative;
+    /* text-align: left; */
 }
 
 .top-center > .job-title > div{
